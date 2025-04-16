@@ -7,7 +7,8 @@ This guide covers key concepts, best practices, and tools to help IT professiona
 Terrafrom code included as an demostrative purpose on detailed step how a cloud exit is. 
 
 
-## Setting up Terraform
+## Diagram
+![Cloud Exit by Example](https://github.com/user-attachments/assets/e9f6c682-041d-4be6-8c66-ef7accc2908f)
 Install Terraform on your local machine using:
 ```shell script
 ./terraform_install/install_terraform.sh
