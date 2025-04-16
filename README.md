@@ -94,3 +94,6 @@ Below is how Tiger bank perform on Database, S3 and VM for databackup.
   
 7. Gitlab CI/CD:
    - Use GitLab CI/CD to automate backups, data transfer, infrastructure provisioning, and testing, streamlining the cloud exit process for efficient, reliable, and error-free AWS-to-Azure migration.
+  
+8. Azure Data Factory
+   - enables seamless data migration from S3 to Azure Blob with parallel processing, secure transfer, checkpointing, and large-scale data pipeline orchestration for efficient migration.
