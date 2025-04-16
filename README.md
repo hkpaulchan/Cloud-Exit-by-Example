@@ -63,12 +63,12 @@ terraform destroy -var-file=<varfile_name>.tfvars
 | AWS | AZURE |
 | --- | --- |
 | Virtual Private Cloud (VPC) | Virtual Network (VNET) |
-| Organizations | Subscription Management + RBAC + Policy + Management Groups |
-| CloudWatch | Monitor |
+| Accounts | Subscriptions |
+| CloudWatch | Azure Monitor |
 | CloudFront | Content Delivery Network |
 | Route 53 | DNS |
-| Codedeploy | DevOps |
-| EC2 | Virtual Machines |
+| Codedeploy | Azure DevOps |
+| EC2 | VM |
 | Application Load Balancer | Application Gateway |
 | Auto Scaling | Virtual Machine Scale Sets |
 | S3 | Blob storage |
@@ -77,6 +77,6 @@ terraform destroy -var-file=<varfile_name>.tfvars
 | DynamoDB | Cosmos DB |
 | Lambda | Functions |
 | Certificate Manager | App Service Certificates  |
-| Web Application Firewall | Application Gateway - Web Application Firewall + Azure Firewall |
+| Web Application Firewall | Application Gateway |
 | SNS | Event Grid |
 | SES | |
