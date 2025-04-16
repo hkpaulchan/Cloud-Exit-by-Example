@@ -52,7 +52,7 @@ Below is a comparison of equivalent services between AWS and Azure to assist wit
 | Web Application Firewall | Application Gateway |
 | SNS | Event Grid |
 
-# Databckup
+# Databackup
 Data backup ensures data integrity, prevents loss, and enables seamless recovery during cloud exit, reducing migration risks significantly.
 Below is how Tiger bank perform on Database, S3 and VM for databackup.
 
