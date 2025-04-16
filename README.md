@@ -1,11 +1,10 @@
 # Cloud Exit: Learn how to migrate workloads, applications, and data seamlessly from AWS to Azure.
 
-Infrastructure as Code for both Amazon Web Services and Microsoft Azure written in Terraform. 
 This repository offers a detailed guide to understanding and implementing Cloud Exit strategies. 
 Cloud Exit refers to the process of migrating workloads, applications, and data from one cloud provider to another, or even to an on-premises environment
 This guide covers key concepts, best practices, and tools to help IT professionals implement a secure and efficient cloud migration strategy.
 
-Terrafrom code included as an demostrative purpose on detailed step how a cloud exit is.
+Terrafrom code included as an demostrative purpose on detailed step how a cloud exit is. 
 
 
 ## Setting up Terraform
@@ -77,10 +76,9 @@ terraform destroy -var-file=<varfile_name>.tfvars
 | Application Load Balancer | Application Gateway |
 | Auto Scaling | Virtual Machine Scale Sets |
 | S3 | Blob storage |
-| Server-side encryption with Amazon S3 Key Management Service | Azure Storage Service Encryption |
 | RDS | Database for MySQL | 
 | DynamoDB | Cosmos DB |
 | Lambda | Functions |
-| Certificate Manager | App Service Certificates  |
+| Certificate Manager | Key Vault  |
 | Web Application Firewall | Application Gateway |
 | SNS | Event Grid |
