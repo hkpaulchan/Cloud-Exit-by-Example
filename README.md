@@ -52,12 +52,12 @@ Below is a comparison of equivalent services between AWS and Azure to assist wit
 | Web Application Firewall | Application Gateway |
 | SNS | Event Grid |
 
-#Databckup
+# Databckup
 Data backup ensures data integrity, prevents loss, and enables seamless recovery during cloud exit, reducing migration risks significantly.
 Below is how Tiger bank perform on Database, S3 and VM for databackup.
 
 #Backup Frequency:
-1. Database:
+1. Database(RDS/DynamoDB):
    - Perform full backups at beginning and daily incremental backup to ensure data integrity.
    - Enable **Point-in-Time Recovery (PITR)** for continuous backups, allowing you to restore to any specific time within the retention period.
    - Retain backups for at least 30 days or as per compliance requirements.
