@@ -10,6 +10,8 @@ Terrafrom code included as an demostrative purpose on detailed step how a cloud 
 ## Diagram
 ![Cloud Exit by Example](https://github.com/user-attachments/assets/e9f6c682-041d-4be6-8c66-ef7accc2908f)
 
+## Scenario: Tiger Bank Cloud Exit Case
+Tiger Bank Ltd., a financial institution, currently operates its IT systems on AWS. Concerned about rising costs and eager to leverage Azure's integration with OpenAI features for enhanced customer experience, Virtual Bank Ltd. decides to migrate its workloads and applications from AWS to Azure.
 
 ## Terraform Structure
 
