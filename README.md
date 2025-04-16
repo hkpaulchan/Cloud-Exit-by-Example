@@ -1,4 +1,4 @@
-# Cloud Exit: Learn how to migrate workloads, applications, and data seamlessly from AWS to Azure.
+# Cloud Exit: Seamless Migration from AWS to Azure
 
 This repository offers a detailed guide to understanding and implementing Cloud Exit strategies. 
 Cloud Exit refers to the process of migrating workloads, applications, and data from one cloud provider to another, or even to an on-premises environment
