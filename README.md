@@ -62,7 +62,7 @@ terraform destroy -var-file=<varfile_name>.tfvars
 
 | AWS | AZURE |
 | --- | --- |
-| Virtual Private Cloud (VPC) | Virtual Network |
+| Virtual Private Cloud (VPC) | Virtual Network (VNET) |
 | Organizations | Subscription Management + RBAC + Policy + Management Groups |
 | CloudWatch | Monitor |
 | CloudFront | Content Delivery Network |
