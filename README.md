@@ -70,3 +70,27 @@ Below is how Tiger bank perform on Database, S3 and VM for databackup.
 3. VM (EC2 Instances):
    - Schedule daily snapshots of EC2 instances and attached volumes to capture the VM state.
    - Retain snapshots for at least 7-14 days, depending on recovery objectives.
+  
+# Handy tools for actual migration:
+1. AWS Backup:
+   - Automates backup scheduling, retention policies, and recovery for databases, S3, EC2, and other AWS resources.
+   - Centralized management for all AWS backups.
+
+2. Azure Migrate:
+   - Facilitates the migration of VMs, databases, and applications from AWS to Azure.
+   - Includes tools for assessment, replication, and cutover.
+
+3. Azure Data Box:
+   - A physical device for transferring large datasets securely from AWS to Azure.
+
+4. AWS DataSync:
+   - Automates and accelerates data transfer between AWS and Azure.
+
+5. Azure Site Recovery (ASR):
+   - Ensures business continuity by replicating workloads from AWS to Azure for disaster recovery.
+
+6. Terraform:
+   - Use Terraform scripts to automate infrastructure provisioning and configuration in Azure post-migration.
+  
+7. Gitlab CI/CD:
+   - Use GitLab CI/CD to automate backups, data transfer, infrastructure provisioning, and testing, streamlining the cloud exit process for efficient, reliable, and error-free AWS-to-Azure migration.
