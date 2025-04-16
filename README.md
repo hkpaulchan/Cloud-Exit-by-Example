@@ -1,6 +1,11 @@
-# Azure and AWS Infrastructure for Webapp with CI/CD
+# Cloud Exit: Learn how to migrate workloads, applications, and data seamlessly from AWS to Azure.
 
 Infrastructure as Code for both Amazon Web Services and Microsoft Azure written in Terraform. 
+This repository offers a detailed guide to understanding and implementing Cloud Exit strategies. 
+Cloud Exit refers to the process of migrating workloads, applications, and data from one cloud provider to another, or even to an on-premises environment
+This guide covers key concepts, best practices, and tools to help IT professionals implement a secure and efficient cloud migration strategy.
+
+Terrafrom code included as an demostrative purpose on detailed step how a cloud exit is.
 
 
 ## Setting up Terraform
