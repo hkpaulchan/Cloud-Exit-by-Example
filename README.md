@@ -84,4 +84,3 @@ terraform destroy -var-file=<varfile_name>.tfvars
 | Certificate Manager | App Service Certificates  |
 | Web Application Firewall | Application Gateway |
 | SNS | Event Grid |
-| SES | |
