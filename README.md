@@ -31,7 +31,7 @@ According to best practices, the terraform structure is as follows:
 
 # AWS to Azure Migration Services (can also be considered as high level inventory)
 
-Below is a comparison of equivalent services between AWS and Azure to assist with the migration process:
+Below is a comparison of equivalent services between AWS and Azure to assist with the above migration process:
 
 | AWS | AZURE |
 | --- | --- |
