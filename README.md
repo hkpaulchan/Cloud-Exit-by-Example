@@ -56,7 +56,7 @@ Below is a comparison of equivalent services between AWS and Azure to assist wit
 Data backup ensures data integrity, prevents loss, and enables seamless recovery during cloud exit, reducing migration risks significantly.
 Below is how Tiger bank perform on Database, S3 and VM for databackup.
 
-In additional to native AWS backup, Tiger bank will use 3rd party tools such as Rubrik or better Multi-Cloud support, zero-trust achitecture and advacned encryption to backup data.
+In additional to native AWS backup, Tiger bank will use 3rd party tools such as Rubrik for better Multi-Cloud support, zero-trust achitecture and advacned encryption to backup data.
 
 #Backup Frequency:
 1. Database(RDS/DynamoDB):
