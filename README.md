@@ -71,7 +71,7 @@ Below is how Tiger bank perform on Database, S3 and VM for databackup.
    - Schedule daily snapshots of EC2 instances and attached volumes to capture the VM state.
    - Retain snapshots for at least 7-14 days, depending on recovery objectives.
   
-# Handy tools for actual migration:
+# Handy tools during migration:
 1. AWS Backup:
    - Automates backup scheduling, retention policies, and recovery for databases, S3, EC2, and other AWS resources.
    - Centralized management for all AWS backups.
