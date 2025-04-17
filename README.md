@@ -29,7 +29,7 @@ According to best practices, the terraform structure is as follows:
 └── Readme.md
 ```
 
-# AWS to Azure Migration Services (can also be considered as high level inventory)
+# AWS to Azure Migration Services (high level inventory)
 
 Below is a comparison of equivalent services between AWS and Azure to assist with the above migration process:
 
